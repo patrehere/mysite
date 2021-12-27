@@ -87,7 +87,9 @@ p {
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
+  margin: auto;
   padding: 20px 0;
+  width: 10%;
 }
 
 .middle-container {
